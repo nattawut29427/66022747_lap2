@@ -1,0 +1,53 @@
+div{
+    
+    
+    width: 1000px;    
+    justify-content: center;
+    align-items: center;
+}
+
+.contianer{
+    display: flex;
+    flex-direction: column;
+    align: center;
+
+    
+    
+}
+
+.header{
+    background-color: palevioletred;
+    font-style: italic;
+    height: 100px;
+    text-align: center;
+}
+
+.nevigator{
+    background-color: rgb(149, 214, 211);
+    height: 50px;
+    color: azure;
+    text-align: center;
+    
+    
+    
+    
+
+}
+
+.text{
+    background-color: plum;
+    height: 550px ;
+}
+
+.footer{
+    background-color: salmon;
+    height: 55px;
+    text-align: center;
+    font-weight: 100 ;
+}
+
+body{
+    position: relative;
+    left: 25%;
+    
+}
